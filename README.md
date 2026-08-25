@@ -156,7 +156,12 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
+### output 1:
+
 ![Alt text](img1.png)
+
+### output 2 :
+
 ![Alt text](img2.png)
 
 
